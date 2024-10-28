@@ -36,10 +36,6 @@ This project analyzes data from Amazon's bestselling books to uncover trends, pa
    - **Regression Analysis**: Perform linear regression to identify factors predicting sales rank.
    - **Clustering**: Group similar books using K-means clustering.
 
-### 6. Reporting
-   - Summarize findings in a report with visualizations and statistical evidence.
-   - Provide actionable insights for authors, publishers, and marketers.
-
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup, Requests
@@ -51,7 +47,6 @@ This project analyzes data from Amazon's bestselling books to uncover trends, pa
 - Comprehensive EDA with visualizations.
 - Insights into factors affecting book sales.
 - A predictive model for sales rank.
-- A detailed report with actionable recommendations.
 
 ## Conclusion
 This project provides insights into factors that contribute to a book’s success on Amazon. By leveraging Python for data analysis, we aim to uncover patterns and trends that can inform strategies for authors, publishers, and marketers.
